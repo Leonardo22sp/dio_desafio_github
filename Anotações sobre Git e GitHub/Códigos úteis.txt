@@ -1,0 +1,12 @@
+Códigos úteis de Git para Windows:
+cd - mudar de pastas.
+cd / - pasta de diretório C.
+cd .. - voltar pastas.
+dir - listar pastas.
+mkdir - criar pastas.
+cls - limpar tels do Git.
+tecla TAB - commpleta frases automaticamente.
+git init - mover arquivos.
+git add - conhecer primeiros comandos.
+git commit - criar commit.
+ls - a - mostrar pasta oculta.

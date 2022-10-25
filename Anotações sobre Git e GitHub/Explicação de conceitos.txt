@@ -1,0 +1,9 @@
+Chave SSH - É uma forma de estabelecer uma conexão segura e encriptada entre as máquinas.
+
+Blobs - É um modelo de objeto usado para armazenar o conteúdo de cada arquivo em um repositório.
+
+Tree - É usado para criar uma relação entre os diretórios e os aquivos que eles possuem.
+
+Commit - É usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git.
+
+Repositório - São ambientes criados para guardar seus códigos.

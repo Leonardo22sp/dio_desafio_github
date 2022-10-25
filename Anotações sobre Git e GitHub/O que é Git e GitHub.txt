@@ -1,0 +1,7 @@
+O que é Git?
+
+Git é um sistema que possui a função de registrar quaisquer mudanças feitas em cima de um código, guardando essas informações e permitindo que, caso seja preciso, um programador possa voltar a versões antigas de uma aplicação.
+
+O que é GitHub?
+
+O GitHub é famoso entre a comunidade de programadores do mundo todo por se tratar de uma espécie de rede social voltada a profissionais da TI, e sua tecnologia usada é o Git.
